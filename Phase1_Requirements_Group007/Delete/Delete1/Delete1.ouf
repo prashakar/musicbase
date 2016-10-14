@@ -1,0 +1,14 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command: 
+Enter what you want to delete (user/ticket)?
+Enter seller’s username:
+Enter event title:
+Enter number of tickets:
+Are you sure you want to delete?
+Tickets deleted.
+Enter command:
+Logout accepted.
+Session terminated.

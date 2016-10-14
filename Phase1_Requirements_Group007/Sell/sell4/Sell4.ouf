@@ -1,0 +1,10 @@
+Welcome to the ticket system.
+Enter command: 
+Enter username:
+Enter command:
+Enter event:
+Enter sale price:
+Invalid event: ticket price should be less than $999.99.
+Tickets Not Added.
+Enter command:
+Session terminated.

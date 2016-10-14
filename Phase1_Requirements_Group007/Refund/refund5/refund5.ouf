@@ -1,0 +1,11 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command:
+Enter buyers username:
+Enter sellers username:
+Refund invalid: buyer and seller must both be current users to process refund
+Enter command:
+Logout accepted.
+Session terminated.

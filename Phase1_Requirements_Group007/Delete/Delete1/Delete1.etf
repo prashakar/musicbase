@@ -1,0 +1,2 @@
+// assume we fstandard had 40 tickets - after this test case it will delete 20 tickets so total will be 40
+02       fStandard FS 000200000

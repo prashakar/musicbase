@@ -1,0 +1,11 @@
+Welcome to the ticket system.
+Enter command: 
+Enter username:
+Enter command:
+Enter event:
+Enter sale price:
+Enter number of tickets to add:
+Invalid event: ticket amount should be less than 100 and more than 0.
+Tickets Not Added.
+Enter command:
+Session terminated.

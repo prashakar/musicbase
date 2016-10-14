@@ -1,0 +1,11 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command: 
+Enter what you want to delete (user/ticket)?
+Enter the User username:
+Invalid, the user is already in use.
+Enter command:
+Logout accepted.
+Session terminated.

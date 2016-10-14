@@ -1,0 +1,15 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command: 
+Enter what you want to delete (user/ticket)?
+Enter the User username:
+Are you sure you want to delete?
+User deleted.
+Enter command:
+Enter new account holder’s name username:
+No further transitions can be made to a deleted User.
+Enter command:
+Logout accepted.
+Session terminated.

@@ -1,0 +1,12 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command:
+Enter amount of credit to add:
+Enter username of account to credit:
+Valid user account entered, proceed with transaction?
+The credit has not been applied.
+Enter command:
+Logout accepted.
+Session terminated.

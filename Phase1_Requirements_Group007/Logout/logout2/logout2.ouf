@@ -1,0 +1,19 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Login accepted.
+Enter command:
+Create invalid: you do not have access to this transaction.
+Enter command:
+Delete invalid: you do not have access to this transaction.
+Enter command:
+Sell invalid: you do not have access to this transaction.
+Enter command:
+Buy accepted.
+Enter command:
+Refund accepted.
+Enter command:
+Addcredit accepted.
+Enter command:
+Logout accepted.
+Session terminated.

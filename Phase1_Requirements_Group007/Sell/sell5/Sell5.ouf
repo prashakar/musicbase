@@ -1,0 +1,9 @@
+Welcome to the ticket system.
+Enter command:
+Enter username:
+Enter command:
+Enter event:
+Invalid event: name should be between 0-25 characters long.
+Tickets Not Added.
+Enter command:
+Session terminated.
